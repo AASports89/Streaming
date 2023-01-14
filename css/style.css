@@ -46,7 +46,7 @@
 
 #thumb-header {
     width: 50%;
-    background-color: transparent;
+    background-image: url("https://res.cloudinary.com/dhqsixgmo/image/upload/v1673686491/Untitled_presentation_ilqwwo.svg");
 }
 
 #title {
@@ -55,4 +55,16 @@
 
 #season-2 {
     width: 100%;
+}
+
+#nav-link:hover {
+    border: 1px solid black;
+    border-radius: 0.25em;
+    cursor: pointer;
+}
+
+#nav-season:hover {
+    background-color: black;
+    border-radius: 0.25em;
+    cursor: pointer;
 }
