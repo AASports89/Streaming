@@ -95,3 +95,13 @@
 #guapa {
     width: 40%;
 }
+
+#guapa:hover {
+    border: 1px black solid;
+    cursor: pointer;
+    border-radius: 0.25em;
+}
+
+#nav-2 {
+    border-bottom: 1px solid black;
+}
