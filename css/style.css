@@ -41,9 +41,14 @@
     border: black 1px solid;
     width: 100%;
     margin: 5%;
-    margin-left: 75%;
+   
 }
 
 #thumb-header {
     width: 50%;
+    background-color: transparent;
+}
+
+#title {
+    text-align: center;
 }
