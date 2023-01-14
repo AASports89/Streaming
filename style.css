@@ -1,0 +1,49 @@
+#image {
+    width: 25%;
+    border: black solid 1px;
+    border-radius: 0.5em;
+}
+
+#card-header {
+    background-image: url(https://res.cloudinary.com/dhqsixgmo/image/upload/v1673669251/LigoLab_Media_Templates_1_l9gihb.svg);
+}
+
+#streamer {
+    width: 100%;
+}
+
+#nav {
+    vertical-align: middle;
+    background-image: linear-gradient(rgb(124, 180, 245) 0%, rgb(5, 85, 255) 100%);
+}
+
+#nav1 {
+    vertical-align: middle;
+    background-image: linear-gradient(rgb(124, 180, 245) 0%, rgb(5, 85, 255) 100%);
+    border-radius: 0.25em;
+}
+
+#nav-th {
+    justify-content: center;
+    vertical-align: middle;
+    background-image: linear-gradient(rgb(248, 250, 252) 0%, rgb(137, 138, 140) 100%);
+}
+
+#nav-img {
+    border-radius: 0.25em;
+    border: black 1px solid;
+    width: 100%;
+    margin: 5%;
+}
+
+#nav-img1 {
+    border-radius: 0.25em;
+    border: black 1px solid;
+    width: 100%;
+    margin: 5%;
+    margin-left: 75%;
+}
+
+#thumb-header {
+    width: 50%;
+}
